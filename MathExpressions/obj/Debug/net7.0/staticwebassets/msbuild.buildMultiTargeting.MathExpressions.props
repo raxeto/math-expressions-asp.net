@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MathExpressions.props" />
+</Project>
